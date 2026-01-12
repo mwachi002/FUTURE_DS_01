@@ -1,4 +1,4 @@
-Future Interns Power Bi Project_1
+Future Interns Power Bi Project_1:
 I have completed my first Data Analytics project with Future Interns. 
 
 I performed data importing, data cleaning, and transformation to ensure data accuracy and consistency. I also created DAX measures to calculate key metrics such as total sales, profit, profit margin, total orders, and average discount.
