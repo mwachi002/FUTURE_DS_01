@@ -1,5 +1,3 @@
-1 week ago • Edited • Visible to anyone on or off LinkedIn
-
 Future Interns Power Bi Project_1
 I have completed my first Data Analytics project with Future Interns. 
 
